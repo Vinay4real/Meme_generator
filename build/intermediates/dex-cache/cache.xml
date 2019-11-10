@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Vinay Teja\AndroidStudioProjects\Meme_Generator\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\Vinay Teja\AndroidStudioProjects\Meme_Generator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_f1d00fdb53883dd41cc29b018d3db9cb0b4e95e7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vinay Teja\AndroidStudioProjects\Meme_Generator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="73e77914f8780bb4bbed9ab394606d7d34c86c4b">
+        <dex dex="C:\Users\Vinay Teja\AndroidStudioProjects\Meme_Generator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_08c195b84e8fc8051b0671bb1b5ef35e01c7fdce\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vinay Teja\AndroidStudioProjects\Meme_Generator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\Vinay Teja\AndroidStudioProjects\Meme_Generator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_b22ddf89e6b2f381ab8f2b776d85c9c103405854\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vinay Teja\AndroidStudioProjects\Meme_Generator\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\Vinay Teja\AndroidStudioProjects\Meme_Generator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_a72d295ae2965d3444afe745c0d6fd13d5452576\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\Vinay Teja\AndroidStudioProjects\Meme_Generator\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_094d634603cfbcbfa7291b5e459ff765ff06345b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vinay Teja\AndroidStudioProjects\Meme_Generator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="37ba05b60edc37bbe1923e75786403f886270fd0">
+        <dex dex="C:\Users\Vinay Teja\AndroidStudioProjects\Meme_Generator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9e5ebef3c9e1793b68ab2d378ba6e2b8c8bf3539\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vinay Teja\AndroidStudioProjects\Meme_Generator\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\Vinay Teja\AndroidStudioProjects\Meme_Generator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_35e4f1c7573ac10db8b777b9697da643ba362af4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vinay Teja\AndroidStudioProjects\Meme_Generator\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\Vinay Teja\AndroidStudioProjects\Meme_Generator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_03d3a090abd02984e338940eb445fe1e21f0864e\classes.dex" />
+    </item>
+
+</items>
